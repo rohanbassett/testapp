@@ -13,8 +13,8 @@ development:
   encoding: utf8
   database: rohanbassett 
   pool: 5
-  username: root
-  password: slog818&list
+  username: rohanbassett
+  password: khyyqiGs7858810
   socket: /var/run/mysqld/mysqld.sock
 
 # Warning: The database defined as "test" will be erased and
@@ -23,10 +23,10 @@ development:
 test:
   adapter: mysql2
   encoding: utf8
-  database: testapp_test
+  database: rohanbassett
   pool: 5
-  username: root
-  password: slog818&list
+  username: rohanbassett
+  password: khyyqiGs7858810
   socket: /var/run/mysqld/mysqld.sock
 
 production:
@@ -34,6 +34,6 @@ production:
   encoding: utf8
   database: testapp_production
   pool: 5
-  username: root
-  password: slog818&list
+  username: rohanbassett
+  password: khyyqiGs7858810
   socket: /var/run/mysqld/mysqld.sock
